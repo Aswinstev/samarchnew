@@ -17618,6 +17618,9 @@ span.wpcf7-not-valid-tip {
   .title1st{
     font-size: 100px;
   }
+  .viewda{
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 1280px) {
@@ -17677,6 +17680,9 @@ span.wpcf7-not-valid-tip {
   }
   .top-left{
 
+  }
+  .viewda{
+    text-align: center;
   }
 }
 
@@ -17742,6 +17748,9 @@ span.wpcf7-not-valid-tip {
   }
   .top-left{
 
+  }
+  .viewda{
+    text-align: center;
   }
 }
 
@@ -17811,6 +17820,9 @@ span.wpcf7-not-valid-tip {
   .top-left{
 
   }
+  .viewda{
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -17875,12 +17887,18 @@ span.wpcf7-not-valid-tip {
   .top-left{
 
   }
+  .viewda{
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 525px) {
   .small{
     width: 150px;
     margin-left: 300px;
+  }
+  .viewda{
+    text-align: center;
   }
 }
 
@@ -17889,6 +17907,9 @@ span.wpcf7-not-valid-tip {
   .slider-img .location {
     padding-top: 45%;
     font-size: 12px !important;
+  }
+  .viewda{
+    text-align: center;
   }
 
 
@@ -17965,6 +17986,9 @@ span.wpcf7-not-valid-tip {
   .align-left {
     text-align: left !important;
   }
+  .viewda{
+    text-align: center;
+  }
 
   .small{
     width: 80px;
@@ -18027,6 +18051,9 @@ span.wpcf7-not-valid-tip {
   .slider-img .location {
     padding-top: 50%;
     font-size: 9px !important;
+  }
+  .viewda{
+    text-align: center;
   }
 
   .small{
@@ -18114,5 +18141,8 @@ span.wpcf7-not-valid-tip {
   }
   .top-left{
 
+  }
+  .viewda{
+    text-align: center;
   }
 }
