@@ -135,6 +135,10 @@ html, body {
   padding-top: 50px;
 }
 
+.title9{
+  color: rgba(52, 53, 54, 0.8);
+}
+
 .top-right {
   position: absolute;
   top: 8px;
