@@ -122,11 +122,12 @@ html, body {
   font-size: 27px;
   line-height:  1.500;
   font-family: "Patua One", serif;
+  color: rgba(52, 53, 54, 0.8);
 }
 
 .birthmat{
   font-size: 20px;
-  color: #000;
+  color: rgba(52, 53, 54, 0.8);
   line-height: 24px;
   font-weight: 500;
 }
@@ -160,26 +161,28 @@ html, body {
  font-size: 27px;
  line-height: 1.500;
  font-family: "Patua One", serif;
+ color: rgba(52, 53, 54, 0.8);
 }
 
 .acadmat{
   font-size: 20px;
-  color: #000;
   line-height: 24px;
   font-weight: 500;
+  color: rgba(52, 53, 54, 0.8);
 }
 
 .adult{
   font-size: 27px;
   line-height: 1.500;
   font-family: "Patua One", serif;
+  color: rgba(52, 53, 54, 0.8);
 }
 
 .adultmat{
   font-size: 20px;
-  color: #000;
   line-height: 24px;
   font-weight: 500;
+  color: rgba(52, 53, 54, 0.8);
 }
 
 .pro{
@@ -188,23 +191,29 @@ html, body {
   font-size: 27px;
   line-height: 1.500;
   font-family: "Patua One", serif;
+  color: rgba(52, 53, 54, 0.8);
 }
 
 .promat{
   font-size: 20px;
-  color: #000;
   line-height: 24px;
   font-weight:500;
+  color: rgba(52, 53, 54, 0.8);
+}
+
+.my{
+  color: rgba(52, 53, 54, 0.8);
 }
 
 .fut{
   padding-right: 50px;
   padding-top: 200px;
   font-family: "Patua One", serif;
+  color: rgba(52, 53, 54, 0.8);
 }
 .futmat{
   font-size: 10px;
-  color: #000;
+  color: rgba(52, 53, 54, 0.8);
 }
 
 .bottom-right {
